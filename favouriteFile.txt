@@ -3,3 +3,4 @@ Un cambio antes del mergeo con borrado de fichero
 para aumentar un commit
 Modifico una linea 1
 Modifico otra linea 2
+Linea 6
